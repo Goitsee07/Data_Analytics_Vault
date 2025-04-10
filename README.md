@@ -1,10 +1,40 @@
-# [Goitseone]'s Data Analyst Portfolio  
+# Goitseone's Data Analytics Portfolio 👋
 
-## 🚀 Featured Projects  
-### [Business Funding Analysis](projects/business_funding_analysis/)  
+📊 Data Analyst | Python | SQL | Machine Learning | South Africa Focus  
+
+---
+
+## 🚀 Featured Projects
+
+### [Business Funding Analysis](projects/business_funding_analysis/)
+**Insights into R2.5B+ South African business funding**  
 - Cleaned messy financial data with Python/Regex  
-- Analyzed RXX billion in funding across sectors  
-- Tools: Pandas, Matplotlib, GitHub  
+- Identified top sectors and funding trends  
+- Tools: Pandas, Matplotlib, Seaborn  
+- [View Full Report](projects/business_funding_analysis/Business_Funding_Analysis_Report.pdf)
 
-[View All Projects](#projects)# Analytics_Vault
-A curated collection of projects demonstrating expertise in data cleaning, analysis, visualization, and storytelling.
+---
+
+## 🛠️ Technical Skills
+**Programming**: Python (Pandas, NumPy), SQL  
+**Visualization**: Matplotlib, Seaborn, Tableau  
+**Machine Learning**: Scikit-learn, TensorFlow  
+
+---
+
+## 🌍 Domain Expertise
+- South African business ecosystems  
+- Financial data analysis  
+- Public-private partnership trends  
+
+---
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goitseone_Ndlovu-blue)](https://www.linkedin.com/in/goitseendlovu)  
+✉️ Email: [goitsee07@gmail.com](mailto:goitsee07@gmail.com)  
+💻 GitHub: [github.com/Goitsee07](https://github.com/Goitsee07)
+
+---
+
+## 🔍 Recent Updates
+- July 2024: Added Business Funding Analysis project
