@@ -16,3 +16,9 @@ Analysis of R2.5B+ in business funding across 50+ South African companies. Ident
 - **Visualization**: Matplotlib, Seaborn
 
 ## 📂 Repository Structure
+business_funding_analysis/
+├── data/              # Raw and cleaned datasets
+├── notebooks/         # Jupyter notebooks
+├── scripts/           # Python analysis scripts
+├── visuals/           # Generated charts
+└── Business_Funding_Analysis_Report.pdf  # Full analysis report
