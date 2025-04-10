@@ -26,7 +26,7 @@
 
 ---
 
-### 2. [Project Name] *(Coming Soon)*  
+### 2. [Other projects] *(Coming Soon)*  
 **Planned Focus Areas**:  
 - SA unemployment rate prediction  
 - Eskom load shedding impact analysis  
