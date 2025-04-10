@@ -35,7 +35,7 @@
 ---
 
 ### 📫 Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goitseone_Dlovu-blue)](www.linkedin.com/in/goitseendlovu)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Goitseone_Ndlovu-blue)](www.linkedin.com/in/goitseendlovu)  
 ✉️ Email: [goitsee07@gmail.com](mailto:goitsee07@gmail.com)  
 
 ---
