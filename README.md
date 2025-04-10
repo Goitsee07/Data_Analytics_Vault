@@ -1,3 +1,4 @@
+
 # Goitseone's Data Analytics Portfolio 👋
 
 📊 Data Analyst | Python | SQL | Machine Learning | South Africa Focus  
@@ -37,4 +38,4 @@
 ---
 
 ## 🔍 Recent Updates
-- July 2024: Added Business Funding Analysis project
+- April 2025: Added Business Funding Analysis project
