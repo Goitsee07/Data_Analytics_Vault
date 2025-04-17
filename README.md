@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](https://opensource.org/licenses/MIT)
 
 
-(https://github.com/Goitsee07/Analytics_Vault/raw/main/projects/business_funding_analysis/visuals/top_sectors.png)
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&height=60&lines=We+can+code+this!;We+can+analyze+this!;We+can+visualize+this!" />
 </p>
