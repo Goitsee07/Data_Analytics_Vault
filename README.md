@@ -28,7 +28,7 @@
 - Automated conversion of messy financial data (`$1.9b` → `1900000000`)  
 - [View Report](projects/business_funding_analysis/Business_Funding_Analysis_Report.pdf)  
 
-### 2. [Project Name] *(Coming Soon)*  
+### 2. Coming Soon 
 **Planned Focus**:  
 - SA Unemployment Trends  
 - Energy Sector Analytics  
